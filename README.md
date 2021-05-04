@@ -12,7 +12,8 @@ Esta é a minha solução para o desafio [Profile card component challenge on Fr
 
 ### Screenshot
 
-![print](C:\Users\Rafael\Desktop\Rafael\desenvolvedorWeb\Projetos\profile-card-component-main\images\print.png)
+![image](https://user-images.githubusercontent.com/80429145/117080649-af7ba800-ad14-11eb-8b58-c274462ef9bc.png)
+
 
 ### Links
 
