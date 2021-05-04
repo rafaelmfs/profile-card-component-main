@@ -17,8 +17,8 @@ Esta é a minha solução para o desafio [Profile card component challenge on Fr
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/profilecardcomponentmain-GubXwba1j
+- Live Site URL: https://rafaelmfs.github.io/profile-card-component-main/
 
 ## Meu processo
 
