@@ -12,9 +12,7 @@ Esta é a minha solução para o desafio [Profile card component challenge on Fr
 
 ### Screenshot
 
-![image-20210504195030481](C:\Users\Rafael\AppData\Roaming\Typora\typora-user-images\image-20210504195030481.png)
-
-
+![print](C:\Users\Rafael\Desktop\Rafael\desenvolvedorWeb\Projetos\profile-card-component-main\images\print.png)
 
 ### Links
 
